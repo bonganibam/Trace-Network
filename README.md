@@ -1,7 +1,7 @@
 # Trace Network
 This is the network state base. We call it "Trace". Our mission here is to work together to accomplish  a network state tech infrastructure.
 
-The open-source technology commons for building The Continental Network.
+The open-source technology commons for building Trace Network.
 
 What is Trace Network?
 
@@ -112,7 +112,7 @@ Areas of Development
 
 The repository may contain projects across several layers.
 
-                    THE CONTINENTAL NETWORK
+                        TRACE NETWORK
                              │
               ┌──────────────┴──────────────┐
               │                             │
@@ -190,7 +190,7 @@ Projects should prioritize:
 
 4. Use It
 
-The most important test is whether members of The Continental Network actually use the software.
+The most important test is whether members of Trace Network actually use the software.
 
 Internal adoption is a primary signal of success.
 
@@ -203,8 +203,7 @@ Projects evolve based on actual community needs rather than assumptions.
 ---
 
 Repository Structure
-
-continental-network/
+Trace-Network/
 │
 ├── README.md
 ├── CONTRIBUTING.md

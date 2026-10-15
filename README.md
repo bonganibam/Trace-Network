@@ -1,11 +1,11 @@
-# Continental-Network-VARGO-
-This is the network state base. We call it "VARGO". Our mission here is to work together to accomplish  a network state tech infrastructure.
+# Trace Network
+This is the network state base. We call it "Trace". Our mission here is to work together to accomplish  a network state tech infrastructure.
 
 The open-source technology commons for building The Continental Network.
 
-What is The Continental Network?
+What is Trace Network?
 
-The Continental Network is an online-first community that is building toward becoming a network of real-world communities.
+Trace Network is an online-first community that is building toward becoming a network of real-world communities.
 
 We start online.
 
@@ -21,7 +21,7 @@ This repository is where we build it.
 
 What We're Building
 
-The Continental Network will need its own digital infrastructure.
+Trace Network will need its own digital infrastructure.
 
 Rather than relying entirely on disconnected platforms owned by other organizations, we will build the tools we need to operate as a community.
 
@@ -76,7 +76,7 @@ This may include:
 
 Online First
 
-The Continental Network does not begin with land.
+Trace Network does not begin with land.
 
 It begins with people.
 
@@ -94,7 +94,7 @@ It is the foundation of the physical network.
 
 This Repository
 
-This GitHub organization is the technical workspace of The Continental Network.
+This GitHub organization is the technical workspace of Trace Network.
 
 Developers and other contributors can use it to build the software, protocols, infrastructure, and applications that the community needs.
 
@@ -123,8 +123,8 @@ The repository may contain projects across several layers.
   Identity  Social   Economy       Places  Work  Commerce
      │        │        │             │      │      │
      └────────┴────────┴─────────────┴──────┴──────┘
-                         │
-                    Community
+                             │
+                          Community
 
 Potential technical areas include:
 
@@ -264,7 +264,7 @@ Projects should ideally contribute to the larger network rather than become isol
 
 Build for the Network
 
-The Continental Network will eventually contain many applications.
+Trace Network will eventually contain many applications.
 
 They should not become a collection of unrelated products.
 
@@ -282,7 +282,7 @@ For example:
                        │
                  Network Account
                        │
-               Continental Network
+                  Trace Network
 
 A member should be able to move through the network without repeatedly creating disconnected identities and accounts.
 
@@ -368,7 +368,7 @@ First, build the network. Then build the places.
 
 The Long-Term Vision
 
-The Continental Network is an experiment in building a community from the internet outward.
+Trace Network is an experiment in building a community from the internet outward.
 
 The progression is simple:
 
@@ -423,4 +423,4 @@ The Principle
 
 We are building the tools we need to build the network we want to live in.
 
-The Continental Network
+Trace Network
